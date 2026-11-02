@@ -1,4 +1,4 @@
-# COS 201 - Week 3 Assignment
+# COS 201 - Assignment
 
 **Student Name:** Nwakuche Chiagozie Harry  
 **Matriculation Number:** 25/16792  
